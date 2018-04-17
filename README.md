@@ -1,2 +1,0 @@
-# CelsFahrConverter
-Created with CodeSandbox
